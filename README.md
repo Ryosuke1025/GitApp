@@ -12,5 +12,5 @@ SwiftUI, Foundation
 <img width="341" alt="スクリーンショット 2022-07-31 3 45 36" src="https://user-images.githubusercontent.com/106091028/181937643-bf14aa13-3c08-4fc6-88eb-ca14cd226eab.png">
 
 ## 学べたこと
-・非同期通信について<br>
+・非同期処理について<br>
 ・SwiftでのAPI通信の実装<br>
